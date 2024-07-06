@@ -1,0 +1,9 @@
+[submodule "github.com/joho/godotenv"]
+	path = vendor/github.com/joho/godotenv
+	url = git@github.com:joho/godotenv.git
+[submodule "github.com/go-chi/chi"]
+	path = vendor/github.com/go-chi/chi
+	url = git@github.com:go-chi/chi.git
+[submodule "github.com/go-chi/cors"]
+	path = vendor/github.com/go-chi/cors
+	url = git@github.com:go-chi/cors.git

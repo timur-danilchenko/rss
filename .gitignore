@@ -1,1 +1,6 @@
+# Environment
+.vscode/
+.env
+
+# Binary
 rss
