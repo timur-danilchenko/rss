@@ -7,3 +7,9 @@
 [submodule "github.com/go-chi/cors"]
 	path = vendor/github.com/go-chi/cors
 	url = git@github.com:go-chi/cors.git
+[submodule "vendor/github.com/google/uuid"]
+	path = vendor/github.com/google/uuid
+	url = https://github.com/google/uuid
+[submodule "vendor/github.com/lib/pq"]
+	path = vendor/github.com/lib/pq
+	url = https://github.com/lib/pq
